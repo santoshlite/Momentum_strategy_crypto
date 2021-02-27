@@ -3,5 +3,7 @@ Momentum Strategy for BTC, ETH, BNB, DOGE, DOT, ADA, LINK, USDT, XRP, LTC, BCH, 
 
 Indicators : MACD, RSI, Momentum indicator
 
-Results :
+Results -> Give decision :
+
 <img src="https://i.ibb.co/NWDRJB3/Capture.jpg"/>
+
