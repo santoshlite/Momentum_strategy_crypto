@@ -1,9 +1,20 @@
-# Momentum_strategy_crypto
-Momentum Strategy for BTC, ETH, BNB, DOGE, DOT, ADA, LINK, USDT, XRP, LTC, BCH, XLM, XMR, NEO, DASH, USDC, MIOTA and XTZ.
+# Basic Momentum strategy for cryptos 💰
 
-Indicators : MACD, RSI, Momentum indicator
+Momentum Strategy for :
+- BTC    - ETH
+- BNB    - DOGE
+- DOT    - ADA
+- LINK   - USDT
+- XRP    - LTC
+- BCH    - XLM
+- NEO    - XMR
+- DASH   - USDC
+- MIOTA  - XTZ
 
-Results -> Give decision :
+**Buy Conditions** : RSI < 60 and MOM > 0
+**Sell Conditions** : RSI > 85 and Momentum < 0
+
+Results -> A dataframe that gives decisions to take :
 
 <img src="https://i.ibb.co/NWDRJB3/Capture.jpg"/>
 
